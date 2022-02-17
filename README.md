@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhavana-Jethnani
-- 👀 I’m interested in books, hiking, and food 
+- 👀 I’m interested in data modelling with Python and R
 - 🌱 I’m currently learning Python, R, Power BI
 - 💞️ I’m looking to collaborate on Data visualization and Machine Learning
 - 📫 How to reach me 
